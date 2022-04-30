@@ -17,7 +17,13 @@ public class SingletonBD {
         System.out.println("\n");
     }
 
-    public static void deletarUsuario(){ }
+    public static void deletarUsuario(){
+        Usuario usuario = new Usuario("marina", "123", "marina", 1994);
+        listaUsuario.add(usuario);
+        System.out.println("*** Lista " + listaUsuario.size());
+        listaUsuario.remove(0);
+        System.out.println("Removido usuario " + listaUsuario.isEmpty() );
+    }
 
     public static void atualizarUsuario(){ }
 

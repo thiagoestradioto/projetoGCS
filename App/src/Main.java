@@ -10,8 +10,8 @@ public class Main {
 
             System.out.println("**** MENU ****");
             System.out.println("(1) Cadastrar Usuário");
-            System.out.println("(2) Listar Usuario");
-            System.out.println("(3) Deletar Usuário");
+            System.out.println("(2) Deletar Usuário");
+            System.out.println("(3) Listar Usuario");
             System.out.println("(4) Atualizar Usuário\n");
             System.out.println("(9) Sair\n");
             System.out.print("Opção: ");
