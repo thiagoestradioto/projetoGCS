@@ -35,6 +35,7 @@ public class SingletonBD {
     public static void listarUsuarios(){
 
         System.out.println("*** Criando a branch Listar-Usuario");
+        System.out.println("*** Teste de Issues Monica");
     }
 
     public static void cadastrarCargo(){
