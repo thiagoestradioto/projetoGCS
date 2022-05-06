@@ -25,6 +25,7 @@ public class SingletonBD {
         System.out.println("*** Lista " + listaUsuario.size());
         listaUsuario.remove(0);
         System.out.println("Removido usuario " + listaUsuario.isEmpty() );
+        System.out.println("**Issue Teste Marina**");
     }
 
     public static void atualizarUsuario(){
