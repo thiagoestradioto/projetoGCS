@@ -15,6 +15,8 @@ public class SingletonBD {
         System.out.println("\n");
         System.out.println("*** Usuário cadastrado " + usuario.toString());
         System.out.println("\n");
+        System.out.println("*** ISSUE Improve cadastro usuario ");
+
     }
 
     public static void deletarUsuario(){
