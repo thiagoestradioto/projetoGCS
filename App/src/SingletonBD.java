@@ -27,6 +27,9 @@ public class SingletonBD {
 
     public static void atualizarUsuario(){ }
 
-    public static void listarUsuarios(){ }
+    public static void listarUsuarios(){
+
+        System.out.println("*** Criando a branch Listar-Usuario");
+    }
 
 }
