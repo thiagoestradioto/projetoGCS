@@ -39,7 +39,7 @@ public class SingletonBD {
 
     public static void cadastrarCargo(){
 
-        System.out.println("*** Criando a branch Cadastrar Cargo");
+        System.out.println("*** Improve Issue Criando a branch Cadastrar Cargo");
     }
 
 }
