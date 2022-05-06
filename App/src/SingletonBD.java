@@ -25,7 +25,9 @@ public class SingletonBD {
         System.out.println("Removido usuario " + listaUsuario.isEmpty() );
     }
 
-    public static void atualizarUsuario(){ }
+    public static void atualizarUsuario(){
+        System.out.println("*** Criando a branch Atualizar-Usuario");
+    }
 
     public static void listarUsuarios(){
 
